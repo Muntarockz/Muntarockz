@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **muntarockz@gmail.com**
 <br><br><br> 
-- <img align= "center" src="https://tryhackme-badges.s3.amazonaws.com/muntarockz.png" alt="TryHackMe">
+- <img align= "center" <script src="https://tryhackme.com/badge/1345093"></script> src="https://tryhackme-badges.s3.amazonaws.com/muntarockz.png" alt="TryHackMe">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/muntarockz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muntarockz" height="30" width="40" /></a>
