@@ -16,7 +16,7 @@
 - 💬 Ask me about **SEO, WordPress Development, Ethical hacking and CTF**
 
 - 📫 How to reach me **muntarockz@gmail.com**
-
+-  Tryhackme Badge <script src="https://tryhackme.com/badge/1345093"></script>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/muntarockz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muntarockz" height="30" width="40" /></a>
