@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://muntasirislam.com/](https://muntasirislam.com/)
 
-- 💬 Ask me about **SEO, WORDPRESS, ETHICAL HACKING**
+- 💬 Ask me about **SEO, WordPress Development, Ethical hacking and CTF**
 
 - 📫 How to reach me **muntarockz@gmail.com**
 
